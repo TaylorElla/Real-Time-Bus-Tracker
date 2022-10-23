@@ -1,4 +1,7 @@
 # Real Time Bus Tracker
+## Show stops between MIT and Harvard
+
+<img src= "Real-time-bus-tracker.png" width='300'/>
 
 Description of the project: What does the current project do?  Include improvements you made in the description. 
 
